@@ -1,1 +1,1 @@
-Nie ma katalogu Library
+=> Nie ma katalogu Library <=
